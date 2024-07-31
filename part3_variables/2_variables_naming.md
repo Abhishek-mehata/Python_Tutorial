@@ -55,6 +55,7 @@ Multi Words Variable Names
 
 [1] Camel Case:
 --Each word, except the first, starts with a capital letter
+
 Eg:
 myVariableName = "John"
 
@@ -63,6 +64,7 @@ Try examples at 'variables_rules.py'
             
 [2] Pascal Case:
 --Each word starts with a capital letter
+
 Eg:
 MyVariableName = "John"
 
@@ -70,6 +72,7 @@ Try examples at 'variables_rules.py'
 
 [3] Snake Case:
 --Each word is separated by an underscore character
+
 Eg:
 my_variable_name = "John"
 
