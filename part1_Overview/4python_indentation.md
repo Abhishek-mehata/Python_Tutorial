@@ -7,9 +7,13 @@ Python Indentation
 --------------------------------------------------------------------------------------
 
 Example1[If statement]:
+
 if 5 > 2:
+
    print("Five is greater than two!")
+   
 ---
+
  |--------this spacing is known as indentation which is used instead of {}.
           The space is exactly the space given by Tab key of our keyboard.
   
@@ -20,8 +24,11 @@ You can learn it practically in 'd4.py'
 Example2[This one is wrong to make you understand about importance of indentation]:
 
 if 5 > 2:
+
 print("Five is greater than two!")
+
 ---
+
  |--------Here is no indentation, so this code will give indentaion error.
 
 ----------------------------------------------------------------------------------------
