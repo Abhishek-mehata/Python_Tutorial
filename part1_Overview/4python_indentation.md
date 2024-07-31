@@ -12,7 +12,7 @@ if 5 > 2:
 
            print("Five is greater than two!")
    
----
+
 
  |--------this spacing is known as indentation which is used instead of {}.
           The space is exactly the space given by Tab key of our keyboard.
@@ -27,7 +27,7 @@ if 5 > 2:
 
 print("Five is greater than two!")
 
----
+
 
  |--------Here is no indentation, so this code will give indentaion error.
 
