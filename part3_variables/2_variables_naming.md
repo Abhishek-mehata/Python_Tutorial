@@ -1,6 +1,7 @@
 Python - Variable Names
 
-Variable Names 
+Variable Names
+
 ---A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). 
 ---Rules for Python variables:
 
@@ -15,8 +16,6 @@ Variable Names
 -------- [4] Variable names are case-sensitive (age, Age and AGE are three different variables).
 
 -------- [5] A variable name cannot be any of the Python keywords.[keywords are reserved words by any programming language for specific purpose and each keyword have it's own defination]
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Legal variable names:
