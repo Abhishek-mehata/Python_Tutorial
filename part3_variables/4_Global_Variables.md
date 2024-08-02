@@ -10,7 +10,8 @@ Eg:
 x = "awesome"
 
 def myfunc():
-  print("Python is " + x)
+      print("Python is " + x)
+
 
 myfunc()
 
@@ -28,8 +29,11 @@ Eg:
 x = "awesome"
 
 def myfunc():
+
   x = "fantastic"
+  
   print("Python is " + x)
+  
 
 myfunc()
 
@@ -50,8 +54,11 @@ The global Keyword
 Eg:
 
 def myfunc():
+
   global x
+  
   x = "fantastic"
+  
 
 myfunc()
 
@@ -68,7 +75,9 @@ Eg:
 x = "awesome"
 
 def myfunc():
+
   global x
+  
   x = "fantastic"
 
 myfunc()
