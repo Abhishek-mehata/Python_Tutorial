@@ -6,6 +6,7 @@ As we learned in the Python Variables chapter, we cannot combine strings and num
 age = 36
 txt = "My name is John, I am " + age
 print(txt)
+
 ------------------------------------------------------------------------------------------------------------------------
 
 But we can combine strings and numbers by using f-strings or the format() method!
