@@ -24,8 +24,11 @@ You can use quotes inside a string if they don't match the surrounding ones.
 
 
 Eg:
+
 print("It's alright")
+
 print("He is called 'Johnny'")
+
 print('He is called "Johnny"')
 
 Try examples at 'd1.py'
@@ -43,7 +46,9 @@ consectetur adipiscing elit,
 sed do eiusmod tempor incididunt
 ut labore et dolore magna aliqua."""
 print(a)
+
 ---------------------------------------------
+
 Eg2:
 
 a = '''Lorem ipsum dolor sit amet,
@@ -67,9 +72,11 @@ However, Python does not have a character data type, a single character is simpl
 Square brackets can be used to access elements of the string.
 
 Eg:
+
 Get the character at position 1 (remember that the first character has the position 0)
 
 a = "Hello, World!"
+
 print(a[1])
 
 Try examples at 'd1.py'
@@ -84,8 +91,9 @@ Eg:
 Loop through each letters in the word "banana":
 
 for x in "banana":
-    print(x)
 
+    print(x)
+    
 Try examples at 'd1.py'
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -95,7 +103,9 @@ String Length
 To get the length of a string, use the len() function.
 
 Eg:
+
 a = "Hello, World!"
+
 print(len(a))
 
 Try examples at 'd1.py'
