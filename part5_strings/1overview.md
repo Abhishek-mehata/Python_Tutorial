@@ -7,10 +7,15 @@ Strings in python are surrounded by either single quotation marks, or double quo
 You can also display strings using print() or directly store it on variable.
 
 Eg:
+
 x="Hello"
+
 print(x)
+
 print('Hello')
+
 Try examples at 'd1.py'
+
 ----------------------------------------------------------------------------------------------------
 
 Quotes Inside Quotes
