@@ -9,9 +9,9 @@ Eg:
 txt = "We are the so-called "Vikings" from the north."
 -------------------------------------------------------------------------------------------------------------------------------------
 
-To fix this problem, use the escape character '\'"
+To fix this problem, use the escape character /"
 
 Eg:
-txt = "We are the so-called \"Vikings\" from the north."
+txt = "We are the so-called /"Vikings/" from the north."
 --------------------------------------------------------------------------------------------------------------------------
 Try examples at 'd6.py'
