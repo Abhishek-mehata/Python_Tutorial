@@ -10,9 +10,7 @@ Eg:
 x="Hello"
 print(x)
 print('Hello')
-
 Try examples at 'd1.py'
-
 ----------------------------------------------------------------------------------------------------
 
 Quotes Inside Quotes
